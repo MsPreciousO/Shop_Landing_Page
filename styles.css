@@ -1,0 +1,17 @@
+
+body{
+    margin: 30px;
+}
+
+.my-container{
+    border: 1px solid rgba(33, 116, 51, 0.8);
+}
+
+.my-row{
+    border: 3px solid #b95817cc;
+}
+  
+.my-col{
+    border: 3px dotted blueviolet;
+}
+
